@@ -22,3 +22,25 @@ Letra *italica*
 # listas 
 1. item one
 2. item two 
+
+# Links 
+<a href="http://google.com"> estos es un link </a> 
+<br/>
+[Esto es un link en markdown](http://www.google.com)
+
+# Imagenes 
+![LogoGithub]()
+
+# Code Snippets
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+# tablas
+| Nombre | Apellido | Documento | 
+| ------ | -------- | --------- |
+| Ed     | Max      | etc       | 
+| ------ | -------- | --------- |
+
