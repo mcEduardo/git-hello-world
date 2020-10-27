@@ -12,3 +12,10 @@ Im a readme
 Underline 1
 
 Underline 2
+
+underline 2
+
+
+Letra *italica*
+- formato **bold / strong**
+- fromato~~tachado~~                                              
