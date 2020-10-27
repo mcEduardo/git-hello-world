@@ -19,3 +19,6 @@ underline 2
 Letra *italica*
 - formato **bold / strong**
 - fromato~~tachado~~                                              
+# listas 
+1. item one
+2. item two 
